@@ -1,14 +1,10 @@
 <h1>Hotel leite de mel</h1>
 
-Status: Em desenvolvimento ⚠️
+Status: Pronto
 
 ## O que é o projeto
 
-+ É um projeto de site para um hotel ficticio.
-
-## metas do projeto
-
-+ Ser responsivo
++ É um projeto de web site para um hotel ficticio.
 
 ## Tecnologias usadas no projeto
 
