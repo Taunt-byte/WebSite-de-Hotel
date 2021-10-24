@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://unform.dev">
-    <img src="img/Logo.png" height="150" width="175" alt="Unform" />
+    <img src="assets/img/Logo.png" height="150" width="175" alt="Unform" />
   </a>
 </p>
 <h1 align="center">Hotel leite de mel</h1> 
@@ -20,7 +20,7 @@ Tabela de conteúdos
 <!--te-->
 
 <h4 align="center"> 
-	🚧  Em desenvolvimento.  🚧
+	✔️  Pronto  ✔️
 </h4>
 
 ## Sobre
@@ -36,15 +36,24 @@ Tabela de conteúdos
 - [x] Imagens de hoteis
 - [x] CSS
 
+## Instalacao
+
+Para instalar esse repositorio basta seguir os seguintes passos
+
+1) Digite em seu terminal <code> </code>
+
 ## Como usar
 
-  -
+Para usar basta abrir o arquivo index.html em qualquer Navegador(Edge, Firefox, etc)
 
 ## Pre requisitos
 
--
+Para se ter proveito desse repositorio basta ter em sua maquina os seguintes itens: 
+ 
+1) Instale o Git em sua maquina 
+2) Instale uma IDE (Recomendo o VScode)  
 
-## Tecnologias usadas no projeto
+## Tecnologias
 
  <table>
     <tr>
