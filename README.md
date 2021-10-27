@@ -31,6 +31,10 @@ Tabela de conteúdos
 
 <img src="assets/img/resultado.png"  alt="Unform" />
 
+Você pode conferir aqui:
+
+   + https://taunt-byte.github.io/WebSite-de-Hotel/
+
 ## Tabela de conteudo
 
 - [x] Imagens de hoteis
@@ -40,7 +44,11 @@ Tabela de conteúdos
 
 Para instalar esse repositorio basta seguir os seguintes passos
 
-1) Digite em seu terminal <code> </code>
+1) Digite em seu terminal 
+   
+   <code>git clone https://github.com/Taunt-byte/WebSite-de-Hotel.git</code>
+
+2) Depois basta abrir a pasta em seu editor de codigo
 
 ## Como usar
 
