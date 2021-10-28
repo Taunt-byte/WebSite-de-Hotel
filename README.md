@@ -31,10 +31,6 @@ Tabela de conteúdos
 
 <img src="assets/img/resultado.png"  alt="Unform" />
 
-Você pode conferir aqui:
-
-   + https://taunt-byte.github.io/WebSite-de-Hotel/
-
 ## Tabela de conteudo
 
 - [x] Imagens de hoteis
@@ -53,6 +49,10 @@ Para instalar esse repositorio basta seguir os seguintes passos
 ## Como usar
 
 Para usar basta abrir o arquivo index.html em qualquer Navegador(Edge, Firefox, etc)
+
+Ou entrar no link abaixo: 
+
+   + https://taunt-byte.github.io/WebSite-de-Hotel/
 
 ## Pre requisitos
 
